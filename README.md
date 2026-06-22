@@ -1,0 +1,6 @@
+- create database dengan nama "chat-app-php"
+- kemudian buat 3 table users dan messages
+- table users (user_id, unique_id, fname, lname, email, password, img, status)
+- table messages (msg_id, incoming_msg_id, outgoing_msg_id, msg)
+- kemudian run php -S localhost:8000
+- berhasil
